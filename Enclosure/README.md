@@ -10,6 +10,8 @@
 
 ![internal](internal.jpg)
 
+* 基板アンテナは側面に入るようになっている
+    * そこそこちゃんと電波とびます
 * 秋月のAE-GPSモジュール (要レギュレータ取り外し3.3V化改造)
     * 接続用ケーブルはGroveケーブルを切って作成
         * Grove側は2個 (PPS入力GPIO, UARTのTX,RX, GND)
